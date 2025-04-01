@@ -45,7 +45,7 @@ Follow these steps to set up the project locally:
    ```
 
 ## 🖼️ Screenshots
-public/Screenshot.png
+![Webpage]([screenshots/enhancement.png](https://github.com/Yash-4903/AI-Image-Enhancer/blob/ec20998d062c92ad9a8fd7e06d80a7d18afc7fb2/public/Screenshot.png))
 
 ## 📌 How to Use
 1. Upload an image for enhancement.
